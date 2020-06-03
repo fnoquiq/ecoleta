@@ -1,2 +1,4 @@
 node_modules
 .DS_Store
+
+server/src/database/database.sqlite
